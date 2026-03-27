@@ -1,7 +1,7 @@
 # RFdiffusion3 — Input Specification & Command-line arguments
 
 RFdiffusion3 accepts inputs in two forms: 
-- Constrains to be applied to the inference run are given in JSON or YAML files
+- Constrains to be applied to the inference run are given in JSON or YAML files.
 - Details about the job (number of designs, output directory, etc.) are given as command line arguments
 
 This document outlines the various input settings and configurations you can use with RFdiffusion3.
